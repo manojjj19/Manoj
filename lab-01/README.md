@@ -1,27 +1,26 @@
 # Backend Development Fundamentals - Lab 1
+## Node.js and Express Server
 
-## Student Details
+### Student Details
 - Name: Manoj
 - Registration Number: 252U1R1193
-- Section: S-19
+- Section: [Enter your section]
+- Subject: Backend Development Fundamentals
 
-## Experiment
-Node.js and Express Server
+### Objective
+To create and run a basic web server using Node.js and Express.js.
 
-## Description
-This project demonstrates the creation of a basic web server using Node.js and Express.js.
-
-## Technologies Used
+### Technologies Used
 - Node.js
 - Express.js
 - JavaScript
 
-## Installation and Execution
+### Installation and Execution
 
 1. Install Node.js.
-2. Open the project folder in Visual Studio Code.
-3. Open the terminal.
-4. Run:
+2. Download or clone this repository.
+3. Open the lab-01 folder in the terminal.
+4. Install dependencies:
 
    npm install
 
@@ -31,23 +30,31 @@ This project demonstrates the creation of a basic web server using Node.js and E
 
 6. Open http://localhost:3000 in your browser.
 
-## API Endpoints
-- GET / - Home page
-- GET /about - Student information
-- GET /time - Current date and time
-- Other paths - 404 Page Not Found
+### API Endpoints
 
-## Screenshots
-### Home Page
-![Home Page](https://raw.githubusercontent.com/manojjj19/Manoj/main/lab-01/home.png)
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | / | Home page |
+| GET | /about | Student information |
+| GET | /time | Current date and time |
+| GET | Other paths | 404 Page Not Found |
 
-### About Page
-![About Page](https://raw.githubusercontent.com/manojjj19/Manoj/main/lab-01/about.png)
+### Screenshots
 
-### Time Page
-![Time Page](https://raw.githubusercontent.com/manojjj19/Manoj/main/lab-01/time.png)
+#### Home Page
+![Home Page](./home.png)
 
-### 404 Page
-![404 Page](https://raw.githubusercontent.com/manojjj19/Manoj/main/lab-01/404.png)
-## GitHub Repository
+#### About Page
+![About Page](./about.png)
+
+#### Time Page
+![Time Page](./time.png)
+
+#### 404 Page
+![404 Page](./404.png)
+
+### GitHub Repository
 https://github.com/manojjj19/Manoj
+
+### Deployment
+Application tested locally at http://localhost:3000.
