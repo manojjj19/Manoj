@@ -42,17 +42,16 @@ To create and run a basic web server using Node.js and Express.js.
 ### Screenshots
 
 #### Home Page
-![Home Page](./home.png)
+![Home Page](https://github.com/manojjj19/Manoj/blob/main/lab-01/home.png)
 
 #### About Page
-![About Page](./about.png)
+![About Page](https://github.com/manojjj19/Manoj/blob/main/lab-01/about.png)
 
 #### Time Page
-![Time Page](./time.png)
+![Time Page](https://github.com/manojjj19/Manoj/blob/main/lab-01/time.png)
 
 #### 404 Page
-![404 Page](./404.png)
-
+![404 Page](https://github.com/manojjj19/Manoj/blob/main/lab-01/404.png)
 ### GitHub Repository
 https://github.com/manojjj19/Manoj
 
