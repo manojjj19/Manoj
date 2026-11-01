@@ -39,15 +39,15 @@ This project demonstrates the creation of a basic web server using Node.js and E
 
 ## Screenshots
 ### Home Page
-![Home Page](./home.png)
+![Home Page](https://raw.githubusercontent.com/manojjj19/Manoj/main/lab-01/home.png)
 
 ### About Page
-![About Page](./about.png)
+![About Page](https://raw.githubusercontent.com/manojjj19/Manoj/main/lab-01/about.png)
 
 ### Time Page
-![Time Page](./time.png)
+![Time Page](https://raw.githubusercontent.com/manojjj19/Manoj/main/lab-01/time.png)
 
 ### 404 Page
-![404 Page](./404.png)
+![404 Page](https://raw.githubusercontent.com/manojjj19/Manoj/main/lab-01/404.png)
 ## GitHub Repository
 https://github.com/manojjj19/Manoj
