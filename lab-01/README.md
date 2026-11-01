@@ -40,11 +40,17 @@ To create and run a basic web server using Node.js and Express.js.
 | GET | Other paths | 404 Page Not Found |
 
 ### Screenshots
+### Home Page
+![Home Page](./home.png)
 
-- [Home Page Screenshot](./home.png)
-- [About Page Screenshot](./about.png)
-- [Time Page Screenshot](./time.png)
-- [404 Page Screenshot](./404.png)
+### About Page
+![About Page](./about.png)
+
+### Time Page
+![Time Page](./time.png)
+
+### 404 Page
+![404 Page](./404.png)
 ### GitHub Repository
 https://github.com/manojjj19/Manoj
 
