@@ -38,7 +38,17 @@ This project demonstrates the creation of a basic web server using Node.js and E
 - Other paths - 404 Page Not Found
 
 ## Screenshots
-Screenshots of the working endpoints are included in the screenshots folder.
+### Home Page
+![Home Page](home.png)
+
+### About Page
+![About Page](about.png)
+
+### Time Page
+![Time Page](time.png)
+
+### 404 Page
+![404 Page](404.png)
 
 ## GitHub Repository
 https://github.com/manojjj19/Manoj
